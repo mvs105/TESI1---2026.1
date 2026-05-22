@@ -63,8 +63,6 @@ A base compila informações detalhadas sobre candidatos do ENEM 2023, como dado
 
 # Observações
 
-<!-- - As bases utilizadas são públicas. -->
 - Os datasets não foram incluídos diretamente no repositório devido ao tamanho dos arquivos.
 - Para acessar as bases de dados utilizadas no projeto, utilize os links disponibilizados nas seções de cada base no README.
 - As bases foram obtidas principalmente no Kaggle.
-<!-- - O projeto possui caráter acadêmico e experimental. -->
