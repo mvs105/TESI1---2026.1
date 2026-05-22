@@ -13,10 +13,6 @@ As bases foram obtidas em plataformas públicas de dados, especialmente no Kaggl
 ---
 
 # Escolha da Base de Dados
-
-Cada pasta do projeto contém uma base específica.  
-Os nomes das pastas poderão ser modificados posteriormente conforme a organização do projeto.
-
 ## Bases Coletadas
 
 ### Base 1 — Indicadores Educacionais e PISA
