@@ -17,11 +17,11 @@ As bases foram obtidas em plataformas públicas de dados, especialmente no Kaggl
 Cada pasta do projeto contém uma base específica.  
 Os nomes das pastas poderão ser modificados posteriormente conforme a organização do projeto.
 
-## Bases Utilizadas
+## Bases Coletadas
 
 ### Base 1 — Indicadores Educacionais e PISA
 
-**Pasta:** [pisa_gasto_educacao](./bases_de_dados_tesi/pisa_gasto_educacao/)
+<!-- **Pasta:** [pisa_gasto_educacao](./bases_de_dados_tesi/pisa_gasto_educacao/) -->
 
 Fonte:
 - https://www.kaggle.com/datasets/tabajara98/ocde-pisa-e-gasto-c-educacao
@@ -33,7 +33,7 @@ Descrição:
 
 ### Base 2 — Microdados do Ensino Superior
 
-**Pasta:** [cadastro_de_cursos](./bases_de_dados_tesi/cadastro_de_cursos/)
+<!-- **Pasta:** [cadastro_de_cursos](./bases_de_dados_tesi/cadastro_de_cursos/) -->
 
 Fonte:
 - https://www.kaggle.com/datasets/mistergomes/microdados-educacao-superior-2020
@@ -44,7 +44,7 @@ Descrição:
 ---
 ### Base 3 — Gabaritos Oficiais do ENEM (2017–2025)
 
-**Pasta:** [enem_dataset](./bases_de_dados_tesi/enem_dataset/)
+<!-- **Pasta:** [enem_dataset](./bases_de_dados_tesi/enem_dataset/) -->
 
 Fonte:
 - https://www.kaggle.com/datasets/pablojardimromani/enem-official-answer-keys-2017-2025
@@ -55,7 +55,7 @@ Descrição:
 ---
 ### Base 4 — Microdados do ENEM 2023
 
-**Pasta:** [enem_2023](./bases_de_dados_tesi/enem_2023)
+<!-- **Pasta:** [enem_2023](./bases_de_dados_tesi/enem_2023) -->
 
 Fonte:
 - https://www.kaggle.com/datasets/llssatcesar/microdados-enem-2023
