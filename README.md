@@ -67,7 +67,8 @@ Descrição:
 
 # Observações
 
-- As bases utilizadas são públicas.
-- Os nomes das pastas poderão ser alterados posteriormente.
-- O projeto possui caráter acadêmico e experimental.
-- As descrições das bases serão adicionadas futuramente pelos integrantes do grupo.
+<!-- - As bases utilizadas são públicas. -->
+- Os datasets não foram incluídos diretamente no repositório devido ao tamanho dos arquivos.
+- Para acessar as bases de dados utilizadas no projeto, utilize os links disponibilizados nas seções de cada base no README.
+- As bases foram obtidas principalmente no Kaggle.
+<!-- - O projeto possui caráter acadêmico e experimental. -->
