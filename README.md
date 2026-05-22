@@ -56,7 +56,7 @@ A base concentra gabaritos oficiais do ENEM dos períodos de 2017-2019 e 2023-20
 Fonte:
 - https://www.kaggle.com/datasets/llssatcesar/microdados-enem-2023
 
-Descrição:
+Descrição:  
 A base compila informações detalhadas sobre candidatos do ENEM 2023, como dados demográficos (idade, sexo, cor/raça e estado civil), histórico escolar (tipo de escola e situação de conclusão do ensino médio) e desempenho no exame (nota da redação e pontuação nas áreas de conhecimento).
 
 ---
