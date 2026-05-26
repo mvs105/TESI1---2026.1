@@ -37,6 +37,7 @@ Fonte:
 Descrição:  
 A base compila informações detalhadas sobre candidatos do ENEM 2023, como dados demográficos (idade, sexo, cor/raça e estado civil), histórico escolar (tipo de escola e situação de conclusão do ensino médio) e desempenho no exame (nota da redação e pontuação nas áreas de conhecimento).
 
+
 ---
 #### Outras Fontes
 - https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem
