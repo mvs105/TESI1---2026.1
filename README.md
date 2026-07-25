@@ -21,8 +21,11 @@ A base agrupa dados sobre instituições de ensino superior no Brasil, incluindo
 
 ### Base 2 - Microdados do ENEM 2023
 
-A base compila informações detalhadas sobre candidatos do ENEM 2023, como dados demográficos (idade, sexo, cor/raça e estado civil), histórico escolar (tipo de escola e situação de conclusão do ensino médio) e desempenho no exame (nota da redação e pontuação nas áreas de conhecimento). Acesse a base de dados [neste link](https://www.kaggle.com/datasets/llssatcesar/microdados-enem-2023>)
+A base compila informações detalhadas sobre candidatos do ENEM 2023, como dados demográficos (idade, sexo, cor/raça e estado civil), histórico escolar (tipo de escola e situação de conclusão do ensino médio) e desempenho no exame (nota da redação e pontuação nas áreas de conhecimento). Confira a base de dados [neste link](https://www.kaggle.com/datasets/llssatcesar/microdados-enem-2023>).
 <!-- **Pasta:** [enem_2023](./bases_de_dados_tesi/enem_2023) -->
+
+> [!NOTE]
+> A base de dados escolhida pelo professor para o projeto da disciplina foi a Base 2 - Microdados do ENEM 2023.
 
 
 ## Caminho que podemos seguir
@@ -35,7 +38,7 @@ Nosso objetivo inicial é cruzar o perfil de desempenho dos candidatos (microdad
 > - Os datasets não foram incluídos diretamente no repositório devido ao tamanho dos arquivos.
 > - Para acessar as bases de dados utilizadas no projeto, utilize os links disponibilizados nas seções de cada base no README.
 
-> [!NOTE]
+> [!TIP]
 > Além do site Kaggle, outras plataformas públicas também disponibilizam dados que poderiam ser utilizados durante a construção deste trabalho.
 >   - O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira fornece os microdados do ENEM para consulta pública, pesquisa acadêmica e análise de políticas educacionais. Acesse o site [aqui](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem).
->   - O e-MEC centraliza e disponibiliza a base de dados oficial e unificada de todas as Instituições de Educação Superior (IES) e seus respectivos cursos no Brasil, permitindo consultar de forma confiável a regularidade institucional, a validade dos atos autorizativos e a situação legal de cursos de graduação e especialização. Acesse o site [aqui](https://emec.mec.gov.br/emec/nova).
+>   - O e-MEC centraliza e disponibiliza a base de dados oficial e unificada de todas as Instituições de Educação Superior (IES) e seus respectivos cursos no Brasil, permitindo consultar de forma confiável a regularidade institucional, a validade dos atos autorizativos e a situação legal de cursos de graduação e especialização. Veja o site [aqui](https://emec.mec.gov.br/emec/nova).
