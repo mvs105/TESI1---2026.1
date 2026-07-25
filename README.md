@@ -38,6 +38,9 @@ Nosso objetivo inicial é cruzar o perfil de desempenho dos candidatos (microdad
 > - Os datasets não foram incluídos diretamente no repositório devido ao tamanho dos arquivos.
 > - Para acessar as bases de dados utilizadas no projeto, utilize os links disponibilizados nas seções de cada base no README.
 
+> [!CAUTION]
+> Sempre usar o método `.copy()` da biblioteca `pandas` para proteger os dados originais da base.
+
 > [!TIP]
 > Além do site Kaggle, outras plataformas públicas também disponibilizam dados que poderiam ser utilizados durante a construção deste trabalho.
 >   - O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira fornece os microdados do ENEM para consulta pública, pesquisa acadêmica e análise de políticas educacionais. Acesse o site [aqui](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem).
