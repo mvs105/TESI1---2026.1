@@ -1,6 +1,6 @@
-# TESI1 - 2026.1
+# TESI 1 - 2026.1
 
-Este repositório corresponde a um projeto desenvolvido por um grupo de discentes do 5º período para a disciplina de Tópicos Especiais em Sistemas de Informação (TESI I) da Universidade Federal do Acre (UFAC), ministrada pelo professor Manoel Limeira de Lima Junior durante o período de 2026.1 do curso de Bacharelado em Sistemas de Informação.
+Este repositório corresponde a um projeto desenvolvido por um grupo de discentes do 5º período para a disciplina de Tópicos Especiais em Sistemas de Informação (TESI 1) da Universidade Federal do Acre (UFAC), ministrada pelo professor Manoel Limeira de Lima Junior durante o período de 2026.1 do curso de Bacharelado em Sistemas de Informação.
 
 ## Descrição do projeto
 
@@ -9,7 +9,7 @@ Neste projeto, trabalharemos com foco em Mineração de Dados e Ciência de Dado
 > [!IMPORTANT]
 > As bases foram obtidas em plataformas públicas de dados e passarão por **análise** e **aprovação** do professor.
 
-## Bases Coletadas
+## Bases coletadas
 
 ### Base 1 - Microdados do Ensino Superior 2020
 
