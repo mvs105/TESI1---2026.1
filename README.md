@@ -6,10 +6,10 @@ Repositório da disciplina TESI I - Tópicos Especiais em Sistemas de Informaç�
 
 ### Descrição do projeto
 
-Neste projeto, trabalharemos com foco em **Mineração de Dados** e **Ciência de Dados** aplicada ao contexto educacional.
+Neste projeto, trabalharemos com foco em Mineração de Dados e Ciência de Dados aplicada ao contexto educacional.
 
 > [!IMPORTANT]
-> As bases foram obtidas em plataformas públicas de dados e passarão por **análise e aprovação do professor**.
+> As bases foram obtidas em plataformas públicas de dados e passarão por _**análise**_ e _**aprovação do professor**_.
 
 ## Bases Coletadas
 
@@ -25,18 +25,17 @@ A base compila informações detalhadas sobre candidatos do ENEM 2023, como dado
 <!-- **Pasta:** [enem_2023](./bases_de_dados_tesi/enem_2023) -->
 Fonte: <https://www.kaggle.com/datasets/llssatcesar/microdados-enem-2023>
 
-> [!NOTE]
-> - **INEP** 
->   - O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira fornece os microdados do ENEM para consulta pública, pesquisa acadêmica e análise de políticas educacionais. Acesse o site [aqui](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem).
-> - **e-Mec**
->   - O e-MEC centraliza e disponibiliza a base de dados oficial e unificada de todas as Instituições de Educação Superior (IES) e seus respectivos cursos no Brasil, permitindo consultar de forma confiável a regularidade institucional, a validade dos atos autorizativos e a situação legal de cursos de graduação e especialização. Acesse o site [aqui](https://emec.mec.gov.br/emec/nova).
+## Caminho que podemos seguir
 
-# Caminho que podemos seguir
-
-Nosso objetivo inicial é _**cruzar o perfil de desempenho**_ dos candidatos (microdados do ENEM) e a **oferta de vagas** e _**cursos das instituições**_ (microdados do Ensino Superior e/ou e-MEC) e, a partir dessa integração, utilizar técnicas de ciência e mineração de dados para _**identificar padrões**__ entre as notas obtidas nas diferentes áreas do exame e as opções de graduação disponíveis.
+Nosso objetivo inicial é cruzar o perfil de desempenho dos candidatos (microdados do ENEM) e a oferta de vagas e cursos das instituições (microdados do Ensino Superior e/ou e-MEC) e, a partir dessa integração, utilizar técnicas de ciência e mineração de dados para identificar padrões entre as notas obtidas nas diferentes áreas do exame e as opções de graduação disponíveis.
 
 ## Observações adicionais
 
 > [!WARNING]
 > - Os datasets não foram incluídos diretamente no repositório devido ao tamanho dos arquivos.
 > - Para acessar as bases de dados utilizadas no projeto, utilize os links disponibilizados nas seções de cada base no README.
+
+> [!IMPORTANT]
+> Além do site Kaggle, outras plataformas públicas também disponibilizam dados que poderiam ser utilizados durante a construção deste trabalho.
+>   - O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira fornece os microdados do ENEM para consulta pública, pesquisa acadêmica e análise de políticas educacionais. Acesse o site [aqui](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem).
+>   - O e-MEC centraliza e disponibiliza a base de dados oficial e unificada de todas as Instituições de Educação Superior (IES) e seus respectivos cursos no Brasil, permitindo consultar de forma confiável a regularidade institucional, a validade dos atos autorizativos e a situação legal de cursos de graduação e especialização. Acesse o site [aqui](https://emec.mec.gov.br/emec/nova).
