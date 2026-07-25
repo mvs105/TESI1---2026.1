@@ -9,7 +9,7 @@ Repositório da disciplina TESI I - Tópicos Especiais em Sistemas de Informaç�
 Neste projeto, trabalharemos com foco em Mineração de Dados e Ciência de Dados aplicada ao contexto educacional.
 
 > [!IMPORTANT]
-> As bases foram obtidas em plataformas públicas de dados e passarão por _**análise**_ e _**aprovação**_ do professor.
+> As bases foram obtidas em plataformas públicas de dados e passarão por **análise** e **aprovação** do professor.
 
 ## Bases Coletadas
 
@@ -25,7 +25,7 @@ A base compila informações detalhadas sobre candidatos do ENEM 2023, como dado
 <!-- **Pasta:** [enem_2023](./bases_de_dados_tesi/enem_2023) -->
 
 > [!NOTE]
-> A base de dados escolhida pelo professor para o projeto da disciplina foi a Base 2 - Microdados do ENEM 2023.
+> A base de dados escolhida pelo professor para o projeto da disciplina foi a **Base 2 - Microdados do ENEM 2023**.
 
 
 ## Caminho que podemos seguir
@@ -37,9 +37,6 @@ Nosso objetivo inicial é cruzar o perfil de desempenho dos candidatos (microdad
 > [!WARNING]
 > - Os datasets não foram incluídos diretamente no repositório devido ao tamanho dos arquivos.
 > - Para acessar as bases de dados utilizadas no projeto, utilize os links disponibilizados nas seções de cada base no README.
-
-> [!CAUTION]
-> Sempre usar o método `.copy()` da biblioteca `pandas` para proteger os dados originais da base.
 
 > [!TIP]
 > Além do site Kaggle, outras plataformas públicas também disponibilizam dados que poderiam ser utilizados durante a construção deste trabalho.
