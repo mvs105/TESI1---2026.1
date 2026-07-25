@@ -26,18 +26,17 @@ A base compila informações detalhadas sobre candidatos do ENEM 2023, como dado
 Fonte: <https://www.kaggle.com/datasets/llssatcesar/microdados-enem-2023>
 
 > [!NOTE]
-> - O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira fornece os microdados do ENEM para consulta pública, pesquisa acadêmica e análise de políticas educacionais.
->   - Link: <https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem>
-> - O e-MEC centraliza e disponibiliza a base de dados oficial e unificada de todas as Instituições de Educação Superior (IES) e seus respectivos cursos no Brasil, permitindo consultar de forma confiável a regularidade institucional, a validade dos atos autorizativos e a situação legal de cursos de graduação e especialização.
->   - Link: <https://emec.mec.gov.br/emec/nova>
+> - **INEP** 
+>   - O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira fornece os microdados do ENEM para consulta pública, pesquisa acadêmica e análise de políticas educacionais. Acesse o site [aqui](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem).
+> - **e-Mec**
+>   - O e-MEC centraliza e disponibiliza a base de dados oficial e unificada de todas as Instituições de Educação Superior (IES) e seus respectivos cursos no Brasil, permitindo consultar de forma confiável a regularidade institucional, a validade dos atos autorizativos e a situação legal de cursos de graduação e especialização. Acesse o site [aqui](https://emec.mec.gov.br/emec/nova).
 
 # Caminho que podemos seguir
 
 Nosso objetivo inicial é _**cruzar o perfil de desempenho**_ dos candidatos (microdados do ENEM) e a **oferta de vagas** e _**cursos das instituições**_ (microdados do Ensino Superior e/ou e-MEC) e, a partir dessa integração, utilizar técnicas de ciência e mineração de dados para _**identificar padrões**__ entre as notas obtidas nas diferentes áreas do exame e as opções de graduação disponíveis.
 
-# Observações
+## Observações adicionais
 
-> [!NOTE]
-
+> [!WARNING]
 > - Os datasets não foram incluídos diretamente no repositório devido ao tamanho dos arquivos.
 > - Para acessar as bases de dados utilizadas no projeto, utilize os links disponibilizados nas seções de cada base no README.
