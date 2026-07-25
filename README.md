@@ -21,7 +21,7 @@ A base agrupa dados sobre instituições de ensino superior no Brasil, incluindo
 
 ### Base 2 - Microdados do ENEM 2023
 
-A base compila informações detalhadas sobre candidatos do ENEM 2023, como dados demográficos (idade, sexo, cor/raça e estado civil), histórico escolar (tipo de escola e situação de conclusão do ensino médio) e desempenho no exame (nota da redação e pontuação nas áreas de conhecimento). Confira a base de dados [neste link](https://www.kaggle.com/datasets/llssatcesar/microdados-enem-2023>).
+A base compila informações detalhadas sobre candidatos do ENEM 2023, como dados demográficos (idade, sexo, cor/raça e estado civil), histórico escolar (tipo de escola e situação de conclusão do ensino médio) e desempenho no exame (nota da redação e pontuação nas áreas de conhecimento). Confira a base de dados [neste link](https://www.kaggle.com/datasets/llssatcesar/microdados-enem-2023>) e leia o dicionário de variáveis [neste link](https://github.com/mvs105/TESI1---2026.1/blob/main/dicionario-de-variaveis-enem-2023.pdf).
 <!-- **Pasta:** [enem_2023](./bases_de_dados_tesi/enem_2023) -->
 
 > [!NOTE]
