@@ -1,10 +1,10 @@
-# TESI 1 - 2026.1
+# TESI I - 2026.1
 
-Este repositório corresponde a um projeto desenvolvido por um grupo de discentes do 5º período para a disciplina de Tópicos Especiais em Sistemas de Informação (TESI 1) da Universidade Federal do Acre (UFAC), ministrada pelo professor Manoel Limeira de Lima Junior durante o período de 2026.1 do curso de Bacharelado em Sistemas de Informação.
+Este repositório corresponde a um projeto desenvolvido por um grupo de discentes do 5º período para a disciplina de Tópicos Especiais em Sistemas de Informação (TESI I) da Universidade Federal do Acre (UFAC), ministrada pelo professor Manoel Limeira de Lima Junior durante o período de 2026.1 do curso de Bacharelado em Sistemas de Informação.
 
 ## Descrição do projeto
 
-Neste projeto, trabalharemos com foco em Mineração de Dados e Ciência de Dados aplicada ao contexto educacional para a realização de um projeto prático de exploração e análise de uma base de dados utilizando o Jupyter Notebook.
+Neste projeto, trabalharemos com foco em Mineração de Dados e Ciência de Dados aplicada ao contexto educacional para a realização da análise exploratória de uma base de dados utilizando o Jupyter Notebook.
 
 > [!IMPORTANT]
 > As bases foram obtidas em plataformas públicas de dados e passarão por **análise** e **aprovação** do professor.
@@ -19,7 +19,7 @@ A base agrupa dados sobre instituições de ensino superior no Brasil, incluindo
 
 ### Base 2 - Microdados do ENEM 2023
 
-A base compila informações detalhadas sobre candidatos do ENEM 2023, como dados demográficos (idade, sexo, cor/raça e estado civil), histórico escolar (tipo de escola e situação de conclusão do ensino médio) e desempenho no exame (nota da redação e pontuação nas áreas de conhecimento). Confira a base de dados [neste link](https://www.kaggle.com/datasets/llssatcesar/microdados-enem-2023>) e leia o dicionário de variáveis [disponível aqui](https://github.com/mvs105/TESI1---2026.1/blob/main/dicionario-de-variaveis-enem-2023.pdf).
+A base compila informações detalhadas sobre candidatos do ENEM 2023, como dados demográficos (idade, sexo, cor/raça e estado civil), histórico escolar (tipo de escola e situação de conclusão do ensino médio) e desempenho no exame (nota da redação e pontuação nas áreas de conhecimento). Confira a base de dados [neste link](https://www.kaggle.com/datasets/llssatcesar/microdados-enem-2023) e leia o dicionário de variáveis [disponível aqui](https://github.com/mvs105/TESI1---2026.1/blob/main/dicionario-de-variaveis-enem-2023.pdf).
 <!-- **Pasta:** [enem_2023](./bases_de_dados_tesi/enem_2023) -->
 
 > [!NOTE]
