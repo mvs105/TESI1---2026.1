@@ -9,21 +9,21 @@ Repositório da disciplina TESI I - Tópicos Especiais em Sistemas de Informaç�
 Neste projeto, trabalharemos com foco em Mineração de Dados e Ciência de Dados aplicada ao contexto educacional.
 
 > [!IMPORTANT]
-> As bases foram obtidas em plataformas públicas de dados e passarão por _**análise**_ e _**aprovação do professor**_.
+> As bases foram obtidas em plataformas públicas de dados e passarão por _**análise**_ e _**aprovação**_ do professor.
 
 ## Bases Coletadas
 
 ### Base 1 - Microdados do Ensino Superior 2020
 
-A base agrupa dados sobre instituições de ensino superior no Brasil, incluindo a categoria administrativa (pública ou privada), os cursos oferecidos, o número de vagas, as matrículas, as modalidades (presencial ou EAD), além de diversas outras informações.
+A base agrupa dados sobre instituições de ensino superior no Brasil, incluindo a categoria administrativa (pública ou privada), os cursos oferecidos, o número de vagas, as matrículas, as modalidades (presencial ou EAD), além de diversas outras informações. Acesse a base de dados [neste link](https://www.kaggle.com/datasets/mistergomes/microdados-educacao-superior-2020).
 <!-- **Pasta:** [cadastro_de_cursos](./bases_de_dados_tesi/cadastro_de_cursos/) -->
-Fonte: <https://www.kaggle.com/datasets/mistergomes/microdados-educacao-superior-2020>
+
 
 ### Base 2 - Microdados do ENEM 2023
 
-A base compila informações detalhadas sobre candidatos do ENEM 2023, como dados demográficos (idade, sexo, cor/raça e estado civil), histórico escolar (tipo de escola e situação de conclusão do ensino médio) e desempenho no exame (nota da redação e pontuação nas áreas de conhecimento).
+A base compila informações detalhadas sobre candidatos do ENEM 2023, como dados demográficos (idade, sexo, cor/raça e estado civil), histórico escolar (tipo de escola e situação de conclusão do ensino médio) e desempenho no exame (nota da redação e pontuação nas áreas de conhecimento). Acesse a base de dados [neste link](https://www.kaggle.com/datasets/llssatcesar/microdados-enem-2023>)
 <!-- **Pasta:** [enem_2023](./bases_de_dados_tesi/enem_2023) -->
-Fonte: <https://www.kaggle.com/datasets/llssatcesar/microdados-enem-2023>
+
 
 ## Caminho que podemos seguir
 
@@ -35,7 +35,7 @@ Nosso objetivo inicial é cruzar o perfil de desempenho dos candidatos (microdad
 > - Os datasets não foram incluídos diretamente no repositório devido ao tamanho dos arquivos.
 > - Para acessar as bases de dados utilizadas no projeto, utilize os links disponibilizados nas seções de cada base no README.
 
-> [!IMPORTANT]
+> [!NOTE]
 > Além do site Kaggle, outras plataformas públicas também disponibilizam dados que poderiam ser utilizados durante a construção deste trabalho.
 >   - O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira fornece os microdados do ENEM para consulta pública, pesquisa acadêmica e análise de políticas educacionais. Acesse o site [aqui](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem).
 >   - O e-MEC centraliza e disponibiliza a base de dados oficial e unificada de todas as Instituições de Educação Superior (IES) e seus respectivos cursos no Brasil, permitindo consultar de forma confiável a regularidade institucional, a validade dos atos autorizativos e a situação legal de cursos de graduação e especialização. Acesse o site [aqui](https://emec.mec.gov.br/emec/nova).
