@@ -1,12 +1,10 @@
 # TESI1 - 2026.1
 
-Repositório da disciplina TESI I - Tópicos Especiais em Sistemas de Informação da Universidade Federal do Acre (UFAC), período 2026.1.
+Este repositório corresponde a um projeto desenvolvido por um grupo de discentes do 5º período para a disciplina de Tópicos Especiais em Sistemas de Informação (TESI I) da Universidade Federal do Acre (UFAC), ministrada pelo professor Manoel Limeira de Lima Junior durante o período de 2026.1 do curso de Bacharelado em Sistemas de Informação.
 
-## Mineração e Ciência de Dados
+## Descrição do projeto
 
-### Descrição do projeto
-
-Neste projeto, trabalharemos com foco em Mineração de Dados e Ciência de Dados aplicada ao contexto educacional.
+Neste projeto, trabalharemos com foco em Mineração de Dados e Ciência de Dados aplicada ao contexto educacional para a realização de um projeto prático de exploração e análise de uma base de dados.
 
 > [!IMPORTANT]
 > As bases foram obtidas em plataformas públicas de dados e passarão por **análise** e **aprovação** do professor.
